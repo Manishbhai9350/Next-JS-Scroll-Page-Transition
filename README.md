@@ -4,7 +4,7 @@ This web app provides a seamless page transition's between different routes . Th
 
 
 
-Live - ( <a href="https://shaders-3d-slider.onrender.com" >View</a> )
+Live - ( <a href="" >View</a> )
 
 ## Preview 
 
