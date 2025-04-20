@@ -36,7 +36,6 @@ const ProjectChild = ({ CurrentProject, NextProject, PrevProject }) => {
           gsap.to([LineRef.current, NextProjectCopy.current], {
             opacity: 0,
             onComplete() {
-              console.log(`/projects/${NextProject.curl}`);
               navigation.push(`/projects/${NextProject.curl}`);
             },
           });
